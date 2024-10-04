@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap");
+
+.custom {
+  z-index: 90;
+}
+
+.nav-link:hover {
+  font-weight: 700;
+}
+
+.navbar-toggler:hover {
+  cursor: pointer;
+}
+.nav-item:hover{
+  cursor: pointer;
+}
+
+.navbar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: auto;
+  padding: 5px 30px;
+  align-items: center;
+  background-color: transparent;
+}
